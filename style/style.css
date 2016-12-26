@@ -1,0 +1,224 @@
+body{
+	color: #1b1b1b;
+  	font-family: "Raleway",sans-serif;
+  	font-size: 14px;
+}
+
+.opensans{
+	font-family: 'Open Sans', sans-serif;
+}
+
+.raleway{
+	font-family: 'Raleway', sans-serif;
+
+}
+
+a{
+	color: grey;
+	text-decoration: none;
+}
+
+
+ul {
+	list-style: none;
+}
+
+.header{
+	background-image: url(../assets/indexbanner-bg3.jpg);
+	height: 528px;
+    background-size: cover;
+}
+
+
+
+.banner h1{
+	font-size: 48px;
+    font-weight: 700;
+    color: white;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    line-height: 1.1;
+}
+
+.banner p{
+	color: grey;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 36px;
+    margin: 0 0 10px;
+}
+
+
+.bold {
+	font-weight: bold;
+}
+
+.ulheader{
+	list-style: none;
+}
+
+.mayuscula{
+	text-transform: uppercase;
+}
+
+.cuadradoheader{
+	max-width:1000px;
+	height:50px;
+}
+
+.ion-search{
+	background: #00abf0;
+    color: #fff;
+	font-weight: 700;
+    padding: 18px 35px;
+    text-transform: uppercase;
+}
+
+.logos-center{
+	text-align: center;
+}
+
+
+.servicios{
+	text-align: center;
+}
+
+.cuadrado-precios{
+	box-shadow: 0px 0px 7px 0px rgba(50, 50, 50, 0.1);
+    text-align: center;
+    padding: 50px 28px 55px;
+    background: #fff;
+    margin: 0 0 30px;
+}
+
+.cuadrado-precios span{
+    font-weight: 700;
+    letter-spacing: 2px;
+    margin: 18px 0 38px;
+    text-transform: uppercase;
+}
+
+.cuadrado-precios p{
+	border-bottom: 1px solid #eff1f2;
+    font-family: 'Open Sans';
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 35px;
+    margin: 0;
+    padding: 0 0 27px;
+}
+
+.cuadrado-precios table{
+    padding: 14px 12px;
+    border: 0 none;   
+}
+
+.cuadrado-precios tbody{
+	border-collapse: collapse;
+}
+
+.cuadrado-precios td{
+	border: 0 none;
+    padding: 7px 18px;
+}
+
+.boton-precios{
+	background: #00adf0;
+    width: 100%;
+    border: 0 none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    padding: 12px 0;
+    border-color: #2e6da4;
+    text-decoration: none;
+}
+
+.cuadradoplan{
+	background: #1E90FF;
+	color: white;
+	height:50px;
+}
+
+.img-precios{
+	padding: 0 0 80px;
+	background: url("../assets/pricing-bg.jpg");
+    background-size: 1250px 350px;
+}
+
+.titulo{
+	font-size: 40px;
+    font-weight: 700;
+    margin: 119px 0 28px;
+    padding: 29px 0 0;
+    text-align: center;
+}
+
+.subtitulo{
+	color: #7a7c80;
+    font-size: 18px;
+    margin: 0 0 73px;
+    font-weight: 400;
+    text-align: center;
+}
+
+.small table tbody tr td:last-child {
+	color: #67d6ff;
+    font-weight: 500;
+}
+.normal table tbody tr td:last-child {
+	color: #f9d423;
+    font-weight: 500;
+}
+.big table tbody tr td:last-child {
+	color: #ff9359;
+    font-weight: 500;
+}
+.best table tbody tr td:last-child {    
+	color: #f75f40;
+    font-weight: 500;
+}
+
+.footer-color{
+	background: #233141;
+    padding: 83px 0 89px;
+    text-align: center;
+
+}
+
+.footer-color2{
+	background: #151d26;
+    padding: 43px 0 45px;
+}
+
+.contenedor {
+  max-width: 1200px;
+  width: auto;
+  margin: auto;
+}
+
+.letrafooter{
+	color: white;
+}
+
+span{
+	color: #1E90FF;
+}
+
+.ulfooter {
+	list-style: none;
+}
+
+.afooter {
+	color: white;
+	text-decoration: none;
+}
+
+.cuadrado{
+	border: 5px solid grey;
+}
+
+
